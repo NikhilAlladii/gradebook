@@ -1,0 +1,7 @@
+.label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    right: 22px; 
+    bottom: 0px; 
+}
